@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "baralho.h": "c",
+        "carta.h": "c",
+        "mao.h": "c",
+        "jogo.h": "c",
+        "rodada.h": "c",
+        "simples2.h": "c"
+    }
+}
